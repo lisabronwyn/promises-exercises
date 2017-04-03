@@ -1,0 +1,27 @@
+{
+  "name": "promise-it-wont-hurt-solutions",
+  "version": "1.0.0",
+  "description": "promises goal at LG",
+  "main": "index.js",
+  "scripts": {
+    "test": "promise-it-wont-hurt run mysolution.js    "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisabronwyn/promises-exercises.git"
+  },
+  "keywords": [
+    "promises",
+    "learners",
+    "guild"
+  ],
+  "author": "lisabronwyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lisabronwyn/promises-exercises/issues"
+  },
+  "homepage": "https://github.com/lisabronwyn/promises-exercises#readme",
+  "dependencies": {
+    "lint": "^1.1.2"
+  }
+}
